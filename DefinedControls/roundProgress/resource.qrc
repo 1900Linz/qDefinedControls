@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>RoundProgress.qml</file>
+        <file>RoundProgressEvent.qml</file>
+    </qresource>
+</RCC>
